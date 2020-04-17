@@ -5,4 +5,5 @@
 4. Add animation on logo in activity_main.xml whenever there are a song playing on server to improve the user experience
 5. Recycler view items on activity_choose_a_song.xml now are thicker makes users feel like they are clickable
 6. Non-case sensitive search on recycler view in activity_choose_a_song.xml implemented
-7. Items on recycler view are now set with onClickListener which will pop up a dialog box to ask confirmation from users on recent selection  
+7. Items on recycler view are now set with onClickListener which will pop up a dialog box to ask confirmation from users on recent selection
+8. Daydream service serves as screen saver with label "Squashie Screen Saver" will be avaible as screen saver. To swap the screen saver to "Squashie Screen Saver" go to Settings -> Displays -> Advance -> Screen Saver -> tap on current screen saver and select "Squashie Screen Saver". The tablet/emulator will activate the screen saver regardless of whatever app running in background.
